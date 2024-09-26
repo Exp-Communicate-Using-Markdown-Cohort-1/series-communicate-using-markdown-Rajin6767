@@ -1,7 +1,7 @@
 # h1 header
 ## h2 header
 ### h3 header
-![Image of frog]((https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg))
+![image of a tree](https://octodex.github.com/images/snowtocat_final.jpg)
 
 
 $ git init
